@@ -1,4 +1,4 @@
-use advent_of_code_2023_rust::{day1};
+use advent_of_code_2023::{day1};
 use std::fs;
 use std::time::Instant;
 
